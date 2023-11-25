@@ -17,12 +17,15 @@ Education
 Work experience
 ======
 * mar. 2022 - jun. 2022: Desarrollador Junior, Proximate Apps
-  * Solución de bugs en los proyectos de la empresa con las tecnologías Angular y Java.
-  * Desarrollo de componentes en iOS con el lenguaje Swift.
+  * Bug solution in the company's projects with Angular and Java technologies.
+  * Development of components in iOS with the Swift language.
 
 * jul. 2022 - sept. 2023: Ingeniero Junior, Digital Ware
-  * Desarrollo de componentes nuevos y solución de bugs en los proyectos de la empresa con metodologías ágiles como Scrum y siguiendo los principios SOLID, utilizando las tecnologías SQL Server, Angular y .NET.
-  * Manejo de la herramienta Azure DevOps para la gestión de versiones y el despliegue de los desarrollos.
+  * Development of new components and bug resolution in the company's projects with agile methodologies such as Scrum and following the SOLID principles, using SQL Server, Angular and .NET technologies.
+  * Management of the Azure DevOps tool for version management and deployment of developments.
+
+  
+
   
 Skills
 ======
