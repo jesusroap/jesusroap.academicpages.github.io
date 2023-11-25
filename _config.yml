@@ -83,7 +83,7 @@ author:
   name             : "Jesus Roa"
   avatar           : "jesus-roa.jpg"
   bio              : "Mathematician and Web Developer"
-  location         : #"Location"
+  location         : "Neiva, Colombia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jesusroa/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
