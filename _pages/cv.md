@@ -11,31 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Matemática Aplicada, Universidad Surcolombiana, 2015
+* Desarrollo de Aplicaciones Web, Universidad de Caldas, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* mar. 2022 - jun. 2022: Desarrollador Junior, Proximate Apps
+  * Solución de bugs en los proyectos de la empresa con las tecnologías Angular y Java.
+  * Desarrollo de componentes en iOS con el lenguaje Swift.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* jul. 2022 - sept. 2023: Ingeniero Junior, Digital Ware
+  * Desarrollo de componentes nuevos y solución de bugs en los proyectos de la empresa con metodologías ágiles como Scrum y siguiendo los principios SOLID, utilizando las tecnologías SQL Server, Angular y .NET.
+  * Manejo de la herramienta Azure DevOps para la gestión de versiones y el despliegue de los desarrollos.
   
 Skills
 ======
-* Javascript
+* TypeScript
   * Angular
   * React
 * C#
   * .NET
 * Java
-  * Springboot
+  * Spring Boot
+* Python
+* MySQL
+* SQL Server
+* Scrum
+
+
 
 <!-- Publications
 ======
